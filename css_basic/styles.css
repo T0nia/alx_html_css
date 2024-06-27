@@ -23,3 +23,7 @@ aside {
 article, aside {
     overflow-y: auto;
 }
+
+header{
+    background-color: pink;
+}
