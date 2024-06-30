@@ -1,0 +1,116 @@
+@import url('https://www.fontsquirrel.com/fonts/source-sans-pro');
+@import url('https://www.fontsquirrel.com/fonts/Spin-Cycle-OT');
+
+.background-image {
+background-image: url(/Object.png);
+background-size: cover;
+background-position: center;
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+height: fit-content;
+}
+
+.logo {
+position: absolute;
+width: 1103.41px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 53px;
+    margin-left: 30px;
+    justify-content: flex-end;
+position: relative;
+top: 25px;
+right: 100px;
+height: 40px;
+}
+
+nav li {
+    list-style: none;
+    font-weight: bold;
+    font-size: 12px;
+    height: 15px;
+    left: 0%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.schooled {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 120px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10rem;
+}
+
+.expressions {
+    display: flex;
+    justify-content: center;
+    gap: 59px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -20px;
+}
+
+.btn {
+    padding: 12px 20px;
+margin: 0 auto;
+margin-top: 39px;
+border-radius: 15rem;
+background-color: #c271ff;
+border: 0;
+color: #fff;
+font-weight: 600;
+font-size: 14px;
+box-shadow: 5px 5px 5px rgba(12, 12, 12, 0.2);
+}
+
+h2 {
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 300;
+font-size: 32px;
+color: #fff;
+}
+
+.h2span {
+    font-weight: 600;
+    color: #c271ff;
+}
+
+#the-pros {
+    display: flex;
+    gap: 135;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 2em;
+    justify-content:space-evenly;
+    
+}
+
+.the-pros-container {
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #fff;
+}
+
