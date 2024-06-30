@@ -111,6 +111,10 @@ h2{
   margin-bottom: 2em;
 }
 
+.round {
+    border-radius: 50%;
+}
+
 .pros-container{
   color:#fff;
   padding: 3em;
