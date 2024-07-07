@@ -15,6 +15,7 @@ body {
   background: white;
   max-width: 100vw;
   background-image: url(/headphones/images_1/headphones_hero_1.jpg);
+  background-repeat: no-repeat;
 }
 
 /* HEADER*/
@@ -201,7 +202,7 @@ background-repeat: no-repeat;
   
   #results .sub-txt{
     font-weight: 300;
-    font-size: 18px;
+    font-size: 12px;
     width: 637px;
     text-align: center;
     margin: 2.5em auto;
